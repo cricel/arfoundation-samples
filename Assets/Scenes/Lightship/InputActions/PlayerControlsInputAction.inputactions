@@ -1,0 +1,75 @@
+{
+    "version": 1,
+    "name": "PlayerControlsInputAction",
+    "maps": [
+        {
+            "name": "PlayerControlsMap",
+            "id": "611e3b18-917f-4490-b6eb-f457a6042bbc",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "49775e88-e563-49bc-9c81-a698bb2abc40",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Shoot",
+                    "type": "Button",
+                    "id": "111638dd-f083-4a55-adfa-71f344485be3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ShootAngle",
+                    "type": "Button",
+                    "id": "88336338-665f-473d-8635-fbf477a6ad0e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8bc47bbd-49ec-49a5-a758-ef117e5e56eb",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f6d3b9c2-8e8f-4c72-850f-0a2d5bcafd24",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c3165a47-f2f6-434f-baaa-15bba444350d",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShootAngle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
